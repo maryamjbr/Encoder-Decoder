@@ -1,4 +1,4 @@
-MNIST # Image Reconstruction using Encoder-Decoder Architecture
+# Image Reconstruction using Encoder-Decoder Architecture
 This project implements an encoder-decoder architecture using PyTorch to reconstruct images from the MNIST dataset. The model is trained to minimize the Mean Squared Error (MSE) between the original and reconstructed images.
 ## Project Details
 The notebook performs the following steps:
