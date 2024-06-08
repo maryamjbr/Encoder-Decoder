@@ -10,5 +10,8 @@ The notebook performs the following steps:
 ## Results
 ### Before Training
 The original and reconstructed images before training the model are visualized to show the initial state of the model.
+![e1](https://github.com/maryamjbr/Encoder-Decoder/assets/135154626/49d2fe91-6505-4e7e-9891-223f41cd77cd)
+
 ### After Training
 The original and reconstructed images after training the model for 10 epochs are visualized to show the model's performance in reconstructing the images.
+![e2](https://github.com/maryamjbr/Encoder-Decoder/assets/135154626/ed3c2617-190e-4402-9155-41f858966d72)
