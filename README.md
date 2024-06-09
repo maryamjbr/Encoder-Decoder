@@ -7,7 +7,37 @@ The notebook performs the following steps:
 - Model Definition: Defines the Encoder and Decoder classes using convolutional and transposed convolutional layers.
 - Training: Trains the encoder-decoder model on the MNIST training data for a specified number of epochs, minimizing the MSE loss.
 - Visualization: Visualizes the original and reconstructed images before and after training.
+
+
+## Project Structure
+
+- `Project_03_2.ipynb`: The main Jupyter Notebook containing the implementation of the encoder-decoder model.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/maryamjbr/Encoder-Decoder.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Encoder-Decoder
+```
+
+3. Open the Jupyter Notebook:
+
+```bash
+jupyter notebook Project_03_2.ipynb
+```
+
+4. Run the cells in the notebook to execute the encoder-decoder model and evaluate its performance.
+
+
 ## Results
+- **Loss**: Achieved a training loss of 0.0019.
 ### Before Training
 The original and reconstructed images before training the model are visualized to show the initial state of the model.
 ![e1](https://github.com/maryamjbr/Encoder-Decoder/assets/135154626/49d2fe91-6505-4e7e-9891-223f41cd77cd)
